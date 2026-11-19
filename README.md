@@ -22,3 +22,6 @@ pip install -r requirements.txt
 uvicorn app.main:app --port 8002
 python -m pytest
 ```
+
+## Équipe
+- Mohamed — mainteneur du dépôt vertifarm-telemetry
